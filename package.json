@@ -1,0 +1,19 @@
+{
+    "name": "API",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon miracle.js",
+        "start": "node miracle.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.3",
+        "nodemon": "^2.0.15",
+        "request": "^2.88.2",
+        "request-promise": "^4.2.6"
+    }
+}
